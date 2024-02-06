@@ -24,7 +24,7 @@
 
 /* CODE FOR AMAZON LOGO */
 .logo {
-    background-image: url("ASSETS/amazon_logo.png");
+    background-image: url("./ASSETS/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
